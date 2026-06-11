@@ -1,16 +1,25 @@
-## Hi there 👋
+# <p align="center">👨🏻‍💻 Desenvolvedor de Sistemas</p>
 
-<!--
-**yanmarcelo27/yanmarcelo27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Olá! Sou <strong>Yan Marcelo</strong>, graduando em <strong>Análise e Desenvolvimento de Sistemas</strong> (4º período).
+  <br>
+  Focado em entender a lógica por trás de sistemas robustos e em constante evolução no ecossistema de tecnologia.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  🚀 Especialização em desenvolvimento <strong>Web</strong> e aplicações web modernas.
+  <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias e Ferramentas
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,py,github," />
+</p>
+
+### 📊 Estatísticas de Código
+<p align="left">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanmarcelo27&layout=compact&langs_count=7&theme=tokyonight&hide=html,css&hide_border=false" />
+</p>
+
+---
