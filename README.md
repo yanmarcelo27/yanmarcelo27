@@ -1,7 +1,7 @@
 # <p align="center">👨🏻‍💻 Desenvolvedor de Sistemas</p>
 
 <p align="center">
-  Olá! Sou <strong>Yan Marcelo</strong>, graduando em <strong>Análise e Desenvolvimento de Sistemas</strong> (4º período).
+  Olá! Sou <strong>Yan Marcelo</strong>, graduando em <strong>Análise e Desenvolvimento de Sistemas</strong> (5º período).
   <br>
   Focado em entender a lógica por trás de sistemas robustos e em constante evolução no ecossistema de tecnologia.
 </p>
